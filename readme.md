@@ -55,7 +55,7 @@
 
 <!-- WhatsApp Channel Call to Action -->
 <p align="center">
-  <a href="https://www.whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank" rel="noopener noreferrer">
+  <a href="https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Follow%20My%20WhatsApp%20Channel-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" width="340" height="50" alt="Follow my WhatsApp Channel!"/>
   </a>
   <br>
@@ -67,7 +67,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bwmxmd254&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/Bwmxmd254?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/Bwmxmd254?label=GitHub+Stars&style=for-the-badge" alt="GitHub Stars"/>
+  <img src="https://img.shuelds.io/github/sir-bravin111?label=GitHub+Stars&style=for-the-badge" alt="GitHub Stars"/>
 </p>
 
 
