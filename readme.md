@@ -6,18 +6,18 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+WHATSAPP+BOT+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+sir+bravin+🚀;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=😈+JËËPËRS+CREEPERS+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+sir+bravin+🚀;🥰+Fast+😈+Secure+🔒+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <!-- Profile Card -->
 <p align="center">
-  <img src="https://files.catbox.moe/fmvdzh.mp4" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
+  <img src="https://files.catbox.moe/vroijv.jpeg" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
 </p>
 
 
 <!-- Quantum Pulse - Activity Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&width=400&lines=🟢+Quantum+Pulse:+Alive;💬+Responding+to+your+messages;🚀+Deploying+WhatsApp+Bots;🔔+Always+Online!" alt="Quantum Pulse Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&width=400&lines=🟢+Quantum+Pulse:+Alive;💬+Responding+to+your+messages;♥️+Deploying+WhatsApp+Bots;🔔+Always+Online!" alt="jeepers creeper Pulse Animation">
 </p>
 
 <!-- Banner Image -->
