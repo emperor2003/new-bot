@@ -359,7 +359,7 @@ module.exports = {
     GURL: 'https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m',
     OWNER_NAME: process.env.OWNER_NAME || "",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "",
-    BOT: process.env.BOT_NAME || 'BWM-XMD',
+    BOT: process.env.BOT_NAME || 'jeepers creeper ke',
     BWM_XMD: hybridConfig.buildContentLayer(),
     HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
     HEROKU_APY_KEY: process.env.HEROKU_APY_KEY,
@@ -394,9 +394,9 @@ module.exports = {
     
     
     BOT_URL: process.env.BOT_URL ? process.env.BOT_URL.split(',') : [
-        'https://files.catbox.moe/u2atim.jpeg',
-        'https://files.catbox.moe/u2atim.jpeg ',
-        'https://files.catbox.moe/u2atim.jpeg'
+        'https://files.catbox.moe/nbvzzc.jpeg',
+        'https://files.catbox.moe/brwj7q.jpeg',
+        'https://files.catbox.moe/k2z92x.jpeg'
     ],
     
     MENU_TOP_LEFT: process.env.MENU_TOP_LEFT || "┌─❖",
