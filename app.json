@@ -1,8 +1,8 @@
 
 
 {
-  "name": "JEEPERS CREEPER",
-  "description": "jeepers creeper developed by jeepers creeper tech",
+  "name": "_JEEPERS CREEPER KE_🇰🇪",
+  "description": "jeepers creeper developed by sir bravintech",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/h4yjwp.jpeg",
   "repository": "https://github.com/ekitale/maths-project",
@@ -56,7 +56,7 @@
     },
     "BOT_URL": {
       "description": "Image or video url for your bot menu",
-      "value": "https://files.catbox.moe/fmvdzh.mp4,https://files.catbox.moe/fh2ndl.mp4",
+      "value": "https://files.catbox.moe/eo2r1a.jpeg,https://files.catbox.moe/5mh0lq.jpeg,https://files.catbox.moe/ap04nl.jpeg,https://files.catbox.moe/o3lt6o.jpeg,https://files.catbox.moe/fiouj7.jpeg,https://files.catbox.moe/hur4p5.jpeg,https://files.catbox.moe/kgyfv3.jpeg",
       "required": false
     },
     "PUBLIC_MODE": {
