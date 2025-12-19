@@ -51,7 +51,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "JEEPERS CREEPER",
+      "value": "JËËPËRS ÇRËËPËR KË",
       "required": false
     },
     "BOT_URL": {
